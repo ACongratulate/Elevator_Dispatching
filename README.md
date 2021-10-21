@@ -1,1 +1,1 @@
-It's a test repository. I might delete it one day.
+It's a test repository. I may delete it in a few days.
